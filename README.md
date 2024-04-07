@@ -33,4 +33,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 ---
 
-Developed with :heart: by [mmdeeb]
+Developed with :heart: by mohammed mohammed deeb [mmdeeb]
